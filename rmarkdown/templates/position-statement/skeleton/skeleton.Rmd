@@ -1,0 +1,46 @@
+---
+title: "SORTEE Position statement: [topic]" # TODO: Substitute [topic] by its corresponding value
+output:
+  word_document:
+    reference_docx: ../www/SORTEE_styles.docx
+bibliography: ../www/Position_statements_references.bib
+---
+
+<!-- # NOTE: Title sections are orientative; please adapt to your own needs -->
+
+<!-- # NOTE: Please include references in the `bibliography` file stated in the yaml front matter (line 7). In Rstudio's visual editor, please use the "citation" tool (`Shift-Cmd-F8`, Mac or `Shift-Ctrl-F8`, Win) -->
+
+<!-- # TODO: Remove previous note -->
+
+# What is/are \[position statement topic\] and why is it important?
+
+<!-- # TODO: Give an overview of topic. Explain what is it and why it is important for "ORT" (Openness, Reproducibility, and Transparency) -->
+
+Please mind the following citation example [@rosenthal1979].
+
+<!-- # TODO: Delete the example above -->
+
+# General Evidence
+
+<!-- # TODO: Provide research evidence on the topic, from any field -->
+
+# EcoEvo Evidence (research on the topic)
+
+<!-- # TODO: Provide evidence on the topic, specifically from the EcoEvo research field -->
+
+# State within EcoEvo
+
+<!-- # TODO: Provide an overview of the state of the topic within the field, if known -->
+
+# DEI issues
+
+<!-- # TODO: Comment on issues related to Diversity, Equality, and Inclusion
+(e.g., open access publishing requires a prohibitive cost for some members) -->
+
+# SORTEE position
+
+<!-- # TODO: State SORTEE's current position (can be uncertain) -->
+
+# References
+
+<!-- # TODO: Delete all "TODO"'s and other comments in the template -->
