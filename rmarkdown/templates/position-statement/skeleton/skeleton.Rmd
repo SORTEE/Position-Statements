@@ -14,6 +14,8 @@ bibliography: ../www/Position_statements_references.bib
 
 # What is/are \[position statement topic\] and why is it important?
 
+<!-- # TODO: Substitute [position statement topic] above by the actual topic of the position statement -->
+
 <!-- # TODO: Give an overview of topic. Explain what is it and why it is important for "ORT" (Openness, Reproducibility, and Transparency) -->
 
 Here is an example citation: [@rosenthal1979].
