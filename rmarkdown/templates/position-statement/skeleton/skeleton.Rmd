@@ -1,6 +1,10 @@
 ---
 title: "SORTEE Position statement: [topic]" # TODO: Substitute [topic] by its corresponding value
 output:
+  html_document:
+    includes:
+      before_body: ../www/sortee-leading-logo.html
+    css: ../www/sortee-styles.css
   word_document:
     reference_docx: ../www/SORTEE_styles.docx
 bibliography: ../www/Position_statements_references.bib
