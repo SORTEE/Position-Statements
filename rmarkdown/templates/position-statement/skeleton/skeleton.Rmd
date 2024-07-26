@@ -12,7 +12,7 @@ bibliography: ../www/Position_statements_references.bib
 
 <!-- # TODO: Remove previous notes -->
 
-# What is/are \[position statement topic\] and why is it important?
+# What is/are [position statement topic] and why is it important?
 
 <!-- # TODO: Substitute [position statement topic] above by the actual topic of the position statement -->
 
@@ -36,8 +36,7 @@ Here is an example citation: [@rosenthal1979].
 
 # DEI issues
 
-<!-- # TODO: Comment on issues related to Diversity, Equality, and Inclusion
-(e.g., open access publishing requires a prohibitive cost for some members) -->
+<!-- # TODO: Comment on issues related to Diversity, Equality, and Inclusion (e.g., open access publishing requires a prohibitive cost for some members) -->
 
 # SORTEE position
 
