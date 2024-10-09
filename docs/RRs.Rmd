@@ -2,8 +2,7 @@
 title: "SORTEE Position Statement: Pre-registration and Registered reports"
 author:
   - Joel L. Pick$^{*1}$, Elina Takola$^{*2}$, Kevin Bairos-Novak $^{3+}$, Edward Richard Ivimey-Cook$^{4+}$, Daniel Morillo$^{5+}$, Shinichi Nakagawa$^{6+}$, Julia Sharapi$^{7+}$
-output: html_document
-bibliography: refs.bib
+output: 
   html_document:
     includes:
       before_body: ../assets/sortee-leading-logo.html
