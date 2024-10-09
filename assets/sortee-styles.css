@@ -1,0 +1,5 @@
+/* Apply font "bicyclette" to page title, references, 1st-level header,
+and normal paragraph */
+.title, .csl-entry, h1, p{
+  font-family: bicyclette;
+}
