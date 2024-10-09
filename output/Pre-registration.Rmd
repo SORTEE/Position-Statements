@@ -1,5 +1,5 @@
 ---
-title: "SORTEE Position statement: [topic]" # TODO: Substitute [topic] by its corresponding value
+title: "SORTEE Position statement: Pre-registration and Registered reports"
 output:
   html_document:
     includes:
@@ -20,7 +20,7 @@ bibliography: ../www/Position_statements_references.bib
 
 <!-- # TODO: Substitute [position statement topic] above by the actual topic of the position statement -->
 
-<!-- # TODO: Give an overview of topic. Explain what is it and why it is important for "ORT" (Openness, Reproducibility, and Transparency) -->
+There is considerable pressure on scientists to rapidly produce innovative and significant results. Traditional publication practices favour statistically significant results (typically assessed using statistical measures, such as p-values). This is known as publication bias, and leads to multiple unwanted effects. First, researchers may not try as hard to publish non-significant results, exacerbating the problem [known as the file drawer effect; @rosenthal1979].
 
 Here is an example citation: [@rosenthal1979].
 
