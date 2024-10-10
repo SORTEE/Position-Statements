@@ -20,6 +20,18 @@ bibliography: ../assets/Position_statements_references.bib
 
 <!-- # TODO: Remove previous notes -->
 
+# Summary
+
+<!-- # TODO: Substitute [summary point #] in the four bullet points by four summary points about the topic -->
+
+- [summary point 1]
+
+- [summary point 2]
+
+- [summary point 3]
+
+- [summary point 4]
+
 # What is/are [position statement topic] and why is it important?
 
 <!-- # TODO: Substitute [position statement topic] above by the actual topic of the position statement -->
@@ -53,6 +65,18 @@ Here is an example citation: [@rosenthal1979].
 # SORTEE position
 
 <!-- # TODO: Provide a statement regarding SORTEE's current position on the topic (can be uncertain) -->
+
+# Acknowledgements
+
+<!-- # TODO: Fill in acknowledgement(s) statement as needed -->
+
+# Conflict of Interest Statement
+
+<!-- # TODO: Provide a conflict of interest statement -->
+
+# CREDIT statement
+
+<!-- # TODO: Add contributions as CREDIT statement -->
 
 # References
 
