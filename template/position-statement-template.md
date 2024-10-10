@@ -5,8 +5,12 @@ output:
     includes:
       before_body: ../assets/sortee-leading-logo.html
     css: ../assets/sortee-styles.css
-  word_document:
-    reference_docx: ../assets/SORTEE_styles.docx
+author:
+  - name: "[author]" # TODO: Substitute [author] by an author's name
+    url: [URL] # TODO: Substitute [URL] by the author's URL
+    affiliation: [institution] # TODO: Substitute [institution] by the author's affiliation(s)
+    affiliation_url: [URL] # TODO: Substitute [URL] by the author's institution URL
+    # TODO: Replicate lines 9-12 as many times as necessary (one per author)
 bibliography: ../assets/Position_statements_references.bib
 ---
 
