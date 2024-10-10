@@ -30,19 +30,23 @@ Here is an example citation: [@rosenthal1979].
 
 <!-- # TODO: Delete the example above -->
 
-# General Evidence
+# General research on the costs and benefits of [position statement topic]
+
+<!-- # TODO: Substitute [position statement topic] above by the actual topic of the position statement -->
 
 <!-- # TODO: Provide research evidence on the topic, from any field -->
 
-# EcoEvo Evidence (research on the topic)
+# General research on [position statement topic] in Ecology and Evolutionary Biology
+
+<!-- # TODO: Substitute [position statement topic] above by the actual topic of the position statement -->
 
 <!-- # TODO: Provide evidence on the topic, specifically from the EcoEvo research field -->
 
-# State within EcoEvo
+# State within Ecology and Evolutionary Biology
 
 <!-- # TODO: Provide an overview of the state of the topic within the field, if known -->
 
-# DEI issues
+# DEI Concerns
 
 <!-- # TODO: Comment on issues related to Diversity, Equality, and Inclusion (e.g., open access publishing requires a prohibitive cost for some members) -->
 
